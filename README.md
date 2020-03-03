@@ -17,5 +17,5 @@
 <p>Perform the next command form the root folder of the project: </p>
 <code>python ./main.py</code>
 <h2>Important Information</h2>
-<p>Icons and menu background were taken from the Internet. This is non-commercial educational project. All rights reserved by their respective owners. Thanks <a href="www.instagram.com/pf_end/" title="pf_end" source="www.instagram.com/pf_end/">pf_end</a> for help with the main background.
+<p>Icons and menu background were taken from the Internet. This is non-commercial educational project. All rights reserved by their respective owners. Thanks <a href="https://www.instagram.com/pf_end/" title="pf_end" source="https://www.instagram.com/pf_end/">pf_end</a> for help with the main background.
 </p>
